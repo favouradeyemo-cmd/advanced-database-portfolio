@@ -6,15 +6,14 @@ Show how the CityReads Library database runs in the **cloud** as a **distributed
 ## Deployment: what I set up
 The CityReads book catalogue from Portfolio 4 is deployed on **MongoDB Atlas**, a cloud database service.
 
-*(Fill in the blanks from your Atlas screens.)*
 
 | Setting | Value |
 |---|---|
-| Service | MongoDB Atlas (Database-as-a-Service) |
-| Cluster name | Cluster0 |
+| Service | MongoDB Atlas (Database-as-a-Service)
+| Cluster name | Cluster0 
 | Tier | M0 (free) |
-| Cloud provider | ______ (e.g. AWS) |
-| Region | ______ (e.g. Europe – eu-west-1) |
+| Cloud provider | AWS
+| Region | Paris
 | Cluster type | **Replica set**, 3 nodes |
 | Database / collection | `cityreads` / `catalogue` (8 documents) |
 | Security | Database user with password, IP access list, encrypted connections (TLS) |
