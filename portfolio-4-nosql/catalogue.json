@@ -1,0 +1,107 @@
+[
+  {
+    "isbn": "9780385474542",
+    "title": "Things Fall Apart",
+    "category": "Fiction",
+    "format": "print",
+    "published_year": 1958,
+    "author": { "name": "Chinua Achebe", "country": "Nigeria" },
+    "genre": "Historical fiction",
+    "themes": ["colonialism", "tradition", "identity"],
+    "copies": { "total": 5, "available": 3 },
+    "reviews": [
+      { "member": "Adaeze Okafor", "rating": 5, "comment": "A classic every Nigerian should read." },
+      { "member": "Tunde Bakare", "rating": 4, "comment": "Powerful ending." }
+    ]
+  },
+  {
+    "isbn": "9780385014809",
+    "title": "Arrow of God",
+    "category": "Fiction",
+    "format": "print",
+    "published_year": 1964,
+    "author": { "name": "Chinua Achebe", "country": "Nigeria" },
+    "genre": "Historical fiction",
+    "themes": ["colonialism", "religion", "power"],
+    "copies": { "total": 3, "available": 3 }
+  },
+  {
+    "isbn": "9781400095209",
+    "title": "Half of a Yellow Sun",
+    "category": "Fiction",
+    "format": "print",
+    "published_year": 2006,
+    "author": { "name": "Chimamanda Ngozi Adichie", "country": "Nigeria" },
+    "genre": "Historical fiction",
+    "themes": ["civil war", "love", "identity"],
+    "awards": ["Orange Prize for Fiction 2007"],
+    "copies": { "total": 4, "available": 2 },
+    "reviews": [
+      { "member": "Fatima Bello", "rating": 5, "comment": "Moving and beautifully written." }
+    ]
+  },
+  {
+    "isbn": "9781616202415",
+    "title": "Purple Hibiscus",
+    "category": "Fiction",
+    "format": "ebook",
+    "published_year": 2003,
+    "author": { "name": "Chimamanda Ngozi Adichie", "country": "Nigeria" },
+    "genre": "Coming-of-age",
+    "themes": ["family", "religion", "freedom"],
+    "file_size_mb": 2.4,
+    "licences": { "total": 10, "available": 7 }
+  },
+  {
+    "isbn": "9780192110664",
+    "title": "The Lion and the Jewel",
+    "category": "Drama",
+    "format": "print",
+    "published_year": 1963,
+    "author": { "name": "Wole Soyinka", "country": "Nigeria" },
+    "number_of_acts": 3,
+    "characters": ["Sidi", "Lakunle", "Baroka", "Sadiku"],
+    "copies": { "total": 2, "available": 2 }
+  },
+  {
+    "isbn": "9780078022159",
+    "title": "Database System Concepts",
+    "category": "Textbook",
+    "format": "print",
+    "published_year": 2019,
+    "author": { "name": "Abraham Silberschatz", "country": "USA" },
+    "edition": 7,
+    "subject": "Computer Science",
+    "level": "Postgraduate",
+    "topics": ["SQL", "transactions", "indexing", "NoSQL"],
+    "copies": { "total": 3, "available": 1 },
+    "reviews": [
+      { "member": "Emeka Obi", "rating": 4, "comment": "Dense but complete." }
+    ]
+  },
+  {
+    "isbn": "9781292025407",
+    "title": "Introduction to Algorithms",
+    "category": "Textbook",
+    "format": "print",
+    "published_year": 2022,
+    "author": { "name": "Thomas H. Cormen", "country": "USA" },
+    "edition": 4,
+    "subject": "Computer Science",
+    "level": "Undergraduate",
+    "topics": ["sorting", "graphs", "dynamic programming"],
+    "copies": { "total": 2, "available": 0 }
+  },
+  {
+    "isbn": "9780143039563",
+    "title": "Americanah (Audiobook)",
+    "category": "Fiction",
+    "format": "audiobook",
+    "published_year": 2013,
+    "author": { "name": "Chimamanda Ngozi Adichie", "country": "Nigeria" },
+    "narrator": "Adjoa Andoh",
+    "duration_hours": 17.5,
+    "themes": ["migration", "race", "love"],
+    "licences": { "total": 5, "available": 5 }
+  }
+]
